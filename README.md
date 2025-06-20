@@ -1,38 +1,199 @@
-***********************************
-### Hi there 👋
+# 👋 Olá, eu sou o Rick Max! | Hello, I'm Rick Max!
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Especialista+em+Ruby+on+Rails;Entusiasta+de+IA+e+IoT;Apaixonado+por+tecnologia" alt="Typing SVG" />
+</div>
 
-<b>About me</b> <br>
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am a Software Developer from Brazil 🇧🇷.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Ruby+on+Rails+Specialist;AI+and+IoT+Enthusiast;Passionate+about+Technology" alt="Typing SVG" />
+</div>
 
-<b>Languages and Tools</b> <br>
+---
 
-<p align="center">
-    <img src="https://github.com/rickmax/rickmax/blob/master/Assets/ruby.png" alt="ruby" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/rickmax/rickmax/blob/master/Assets/rails.png" alt="rails" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/rickmax/rickmax/blob/master/Assets/nodejs.png" alt="nodejs" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/rickmax/rickmax/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/rickmax/rickmax/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/rickmax/rickmax/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/rickmax/rickmax/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/rickmax/rickmax/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/rickmax/rickmax/blob/master/Assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-</p>
+## 🚀 Sobre Mim | About Me
 
+**🇧🇷 Português:** Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções inovadoras e eficientes. Com experiência em desenvolvimento web, mobile e IoT, busco sempre aprender novas tecnologias e contribuir para projetos que fazem a diferença.
 
-**I am Into ,**
+**🇺🇸 English:** I'm a **Full Stack Developer** passionate about creating innovative and efficient solutions. With experience in web, mobile, and IoT development, I'm always seeking to learn new technologies and contribute to projects that make a difference.
 
-**Web, Mobile, Desktop & IOT**
-<br />
+- 🌍 **Localização | Location:** Brasil 🇧🇷
+- 💼 **Foco | Focus:** Desenvolvimento Full Stack & Soluções IoT | Full Stack Development & IoT Solutions
+- 🎯 **Objetivo | Goal:** Criar experiências digitais excepcionais | Create exceptional digital experiences
+- 📚 **Sempre aprendendo | Always Learning:** Novas tecnologias e frameworks | New technologies and frameworks
 
+---
 
-<br /> 
+## 🛠️ Tecnologias & Ferramentas | Technologies & Tools
 
-- 📫 How to reach me:<br>
-<a href = "https://www.linkedin.com/in/rickmaxg3/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
+### 💻 Linguagens de Programação | Programming Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MQL4](https://img.shields.io/badge/-MQL4-00D4FF?style=for-the-badge&logo=metatrader&logoColor=white)
+![MQL5](https://img.shields.io/badge/-MQL5-00D4FF?style=for-the-badge&logo=metatrader&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-*************
+### ⚡ Frameworks & Bibliotecas | Frameworks & Libraries
+![Rails](https://img.shields.io/badge/-Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Shiny](https://img.shields.io/badge/-Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MetaTrader](https://img.shields.io/badge/-MetaTrader-00D4FF?style=for-the-badge&logo=metatrader&logoColor=white)
 
-From [rickmax](https://github.com/rickmax)
+### 🎨 Frontend & Design
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NativeScript](https://img.shields.io/badge/-NativeScript-3655FF?style=for-the-badge&logo=nativescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### Thank You 🙏🏼
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
+![Dokku](https://img.shields.io/badge/-Dokku-00D4FF?style=for-the-badge&logo=dokku&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🔬 Áreas de Especialização | Areas of Expertise
+![IoT](https://img.shields.io/badge/-IoT-00D4FF?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![AI/ML](https://img.shields.io/badge/-AI%2FML-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Science](https://img.shields.io/badge/-Data%20Science-00D4FF?style=for-the-badge&logo=jupyter&logoColor=white)
+![Blockchain](https://img.shields.io/badge/-Blockchain-F7931E?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF0000?style=for-the-badge&logo=security&logoColor=white)
+![DevOps](https://img.shields.io/badge/-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-00D4FF?style=for-the-badge&logo=kubernetes&logoColor=white)
+![API Development](https://img.shields.io/badge/-API%20Development-FF6B6B?style=for-the-badge&logo=postman&logoColor=white)
+![Database](https://img.shields.io/badge/-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Mobile Development](https://img.shields.io/badge/-Mobile%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Web Development](https://img.shields.io/badge/-Web%20Development-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Trading](https://img.shields.io/badge/-Trading-00D4FF?style=for-the-badge&logo=metatrader&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub | GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rickmax&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rickmax&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🎯 Áreas de Atuação | Areas of Work
+
+### 🌐 **Desenvolvimento Web | Web Development**
+**🇧🇷 Português:**
+- Aplicações web responsivas e modernas
+- APIs RESTful e GraphQL
+- Otimização de performance e SEO
+
+**🇺🇸 English:**
+- Responsive and modern web applications
+- RESTful APIs and GraphQL
+- Performance optimization and SEO
+
+### 📱 **Desenvolvimento Mobile | Mobile Development**
+**🇧🇷 Português:**
+- Aplicações móveis híbridas
+- PWA (Progressive Web Apps)
+- Experiência do usuário mobile-first
+
+**🇺🇸 English:**
+- Hybrid mobile applications
+- PWA (Progressive Web Apps)
+- Mobile-first user experience
+
+### 🖥️ **Desenvolvimento Desktop | Desktop Development**
+**🇧🇷 Português:**
+- Aplicações desktop multiplataforma
+- Interfaces gráficas intuitivas
+- Integração com sistemas operacionais
+
+**🇺🇸 English:**
+- Cross-platform desktop applications
+- Intuitive graphical interfaces
+- Operating system integration
+
+### 🔌 **Internet das Coisas (IoT) | Internet of Things (IoT)**
+**🇧🇷 Português:**
+- Desenvolvimento de dispositivos IoT
+- Integração com sensores e atuadores
+- Análise de dados em tempo real
+
+**🇺🇸 English:**
+- IoT device development
+- Sensor and actuator integration
+- Real-time data analysis
+
+---
+
+## 🚀 Projetos em Destaque | Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Projeto 1 | Project 1</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://via.placeholder.com/400x200/00D4FF/FFFFFF?text=Projeto+1" width="100%" alt="Projeto 1"/>
+          </a>
+          <p align="center">
+            <strong>🇧🇷</strong> Descrição do projeto em destaque<br>
+            <strong>🇺🇸</strong> Featured project description
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Projeto 2 | Project 2</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://via.placeholder.com/400x200/FF6B6B/FFFFFF?text=Projeto+2" width="100%" alt="Projeto 2"/>
+          </a>
+          <p align="center">
+            <strong>🇧🇷</strong> Descrição do projeto em destaque<br>
+            <strong>🇺🇸</strong> Featured project description
+          </p>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📫 Vamos Conectar! | Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rickmaxg3/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:seu-email@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/rickmax" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rickmax&style=flat-square&color=00D4FF" alt="Profile Views" />
+  
+  **🇧🇷 Obrigado por visitar meu perfil! 🙏🏼**<br>
+  **🇺🇸 Thank you for visiting my profile! 🙏🏼**
+</div>
