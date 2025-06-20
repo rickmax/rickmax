@@ -149,7 +149,7 @@
         <h3 align="center">ExtensoBR | ExtensoBR</h3>
         <p align="center">
           <a href="https://github.com/rickmax/extensobr" target="_blank">
-            <img src="https://via.placeholder.com/400x200/00D4FF/FFFFFF?text=ExtensoBR" width="100%" alt="ExtensoBR"/>
+            <img src="https://github.com/rickmax/rickmax/blob/master/Assets/extensobr.png" width="100%" alt="ExtensoBR"/>
           </a>
           <p align="center">
             <strong>🇧🇷</strong> Conversor de números para extenso em português brasileiro<br>
@@ -161,7 +161,7 @@
         <h3 align="center">Syntax-MQL4 | Syntax-MQL4</h3>
         <p align="center">
           <a href="https://github.com/rickmax/Syntax-Mql4" target="_blank">
-            <img src="https://via.placeholder.com/400x200/FF6B6B/FFFFFF?text=Syntax-MQL4" width="100%" alt="Syntax-MQL4"/>
+            <img src="https://github.com/rickmax/rickmax/blob/master/Assets/syntax-mql4.png" width="100%" alt="Syntax-MQL4"/>
           </a>
           <p align="center">
             <strong>🇧🇷</strong> Syntax highlighting para linguagem MQL4<br>
