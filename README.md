@@ -12,14 +12,15 @@
 
 ## 🚀 Sobre Mim | About Me
 
-**🇧🇷 Português:** Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções inovadoras e eficientes. Com experiência em desenvolvimento web, mobile e IoT, busco sempre aprender novas tecnologias e contribuir para projetos que fazem a diferença.
+**🇧🇷 Português:** Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções inovadoras e eficientes. Com experiência em desenvolvimento web, mobile e IoT, busco sempre aprender novas tecnologias e contribuir para projetos que fazem a diferença. Especialista em **trading automatizado**, **blockchain** e **smart contracts**, com foco em tecnologias emergentes como Solidity e desenvolvimento de DApps.
 
-**🇺🇸 English:** I'm a **Full Stack Developer** passionate about creating innovative and efficient solutions. With experience in web, mobile, and IoT development, I'm always seeking to learn new technologies and contribute to projects that make a difference.
+**🇺🇸 English:** I'm a **Full Stack Developer** passionate about creating innovative and efficient solutions. With experience in web, mobile, and IoT development, I'm always seeking to learn new technologies and contribute to projects that make a difference. Specialist in **automated trading**, **blockchain**, and **smart contracts**, with focus on emerging technologies like Solidity and DApp development.
 
 - 🌍 **Localização | Location:** Brasil 🇧🇷
-- 💼 **Foco | Focus:** Desenvolvimento Full Stack & Soluções IoT | Full Stack Development & IoT Solutions
-- 🎯 **Objetivo | Goal:** Criar experiências digitais excepcionais | Create exceptional digital experiences
+- 💼 **Foco | Focus:** Desenvolvimento Full Stack, Trading Automatizado & Blockchain | Full Stack Development, Automated Trading & Blockchain
+- 🎯 **Objetivo | Goal:** Criar experiências digitais excepcionais e soluções inovadoras | Create exceptional digital experiences and innovative solutions
 - 📚 **Sempre aprendendo | Always Learning:** Novas tecnologias e frameworks | New technologies and frameworks
+- 🚀 **Experiência | Experience:** Desde 2014 | Since 2014
 
 ---
 
@@ -27,6 +28,7 @@
 
 ### 💻 Linguagens de Programação | Programming Languages
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MQL4](https://img.shields.io/badge/-MQL4-00D4FF?style=for-the-badge&logo=metatrader&logoColor=white)
@@ -35,6 +37,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### ⚡ Frameworks & Bibliotecas | Frameworks & Libraries
@@ -72,6 +75,9 @@
 ![AI/ML](https://img.shields.io/badge/-AI%2FML-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-00D4FF?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-F7931E?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Cryptocurrency](https://img.shields.io/badge/-Cryptocurrency-F7931E?style=for-the-badge&logo=bitcoin&logoColor=white)
+![DApps](https://img.shields.io/badge/-DApps-336791?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF0000?style=for-the-badge&logo=security&logoColor=white)
 ![DevOps](https://img.shields.io/badge/-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-00D4FF?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -80,6 +86,20 @@
 ![Mobile Development](https://img.shields.io/badge/-Mobile%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Web Development](https://img.shields.io/badge/-Web%20Development-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Trading](https://img.shields.io/badge/-Trading-00D4FF?style=for-the-badge&logo=metatrader&logoColor=white)
+![Automated Trading](https://img.shields.io/badge/-Automated%20Trading-00D4FF?style=for-the-badge&logo=metatrader&logoColor=white)
+
+### ⛓️ **Blockchain & Criptomoedas | Blockchain & Cryptocurrencies**
+**🇧🇷 Português:**
+- Desenvolvimento de smart contracts com Solidity
+- Criação de DApps (Decentralized Applications)
+- Trading automatizado de criptomoedas
+- Análise de mercado e estratégias DeFi
+
+**🇺🇸 English:**
+- Smart contract development with Solidity
+- DApp (Decentralized Applications) creation
+- Automated cryptocurrency trading
+- Market analysis and DeFi strategies
 
 ---
 
@@ -137,6 +157,19 @@
 - IoT device development
 - Sensor and actuator integration
 - Real-time data analysis
+
+### ⛓️ **Blockchain & Criptomoedas | Blockchain & Cryptocurrencies**
+**🇧🇷 Português:**
+- Desenvolvimento de smart contracts com Solidity
+- Criação de DApps (Decentralized Applications)
+- Trading automatizado de criptomoedas
+- Análise de mercado e estratégias DeFi
+
+**🇺🇸 English:**
+- Smart contract development with Solidity
+- DApp (Decentralized Applications) creation
+- Automated cryptocurrency trading
+- Market analysis and DeFi strategies
 
 ---
 
