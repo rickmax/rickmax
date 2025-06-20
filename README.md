@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou o Rick Max! | Hello, I'm Rick Max!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Especialista+em+Ruby+on+Rails;Entusiasta+de+IA+e+IoT;Apaixonado+por+tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Especialista+Ruby+on+Rails;Entusiasta+de+IA+e+IoT;Apaixonado+por+tecnologia" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Ruby+on+Rails+Specialist;AI+and+IoT+Enthusiast;Passionate+about+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Ruby+on+Rails+Specialist;AI+and+IoT+Enthusiast;Passionate+about+Technology" alt="Typing SVG" />
 </div>
 
 ---
@@ -146,26 +146,26 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Projeto 1 | Project 1</h3>
+        <h3 align="center">ExtensoBR | ExtensoBR</h3>
         <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://via.placeholder.com/400x200/00D4FF/FFFFFF?text=Projeto+1" width="100%" alt="Projeto 1"/>
+          <a href="https://github.com/rickmax/extensobr" target="_blank">
+            <img src="https://via.placeholder.com/400x200/00D4FF/FFFFFF?text=ExtensoBR" width="100%" alt="ExtensoBR"/>
           </a>
           <p align="center">
-            <strong>🇧🇷</strong> Descrição do projeto em destaque<br>
-            <strong>🇺🇸</strong> Featured project description
+            <strong>🇧🇷</strong> Conversor de números para extenso em português brasileiro<br>
+            <strong>🇺🇸</strong> Brazilian Portuguese number to text converter
           </p>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">Projeto 2 | Project 2</h3>
+        <h3 align="center">Syntax-MQL4 | Syntax-MQL4</h3>
         <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://via.placeholder.com/400x200/FF6B6B/FFFFFF?text=Projeto+2" width="100%" alt="Projeto 2"/>
+          <a href="https://github.com/rickmax/Syntax-Mql4" target="_blank">
+            <img src="https://via.placeholder.com/400x200/FF6B6B/FFFFFF?text=Syntax-MQL4" width="100%" alt="Syntax-MQL4"/>
           </a>
           <p align="center">
-            <strong>🇧🇷</strong> Descrição do projeto em destaque<br>
-            <strong>🇺🇸</strong> Featured project description
+            <strong>🇧🇷</strong> Syntax highlighting para linguagem MQL4<br>
+            <strong>🇺🇸</strong> Syntax highlighting for MQL4 language
           </p>
         </p>
       </td>
